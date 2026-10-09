@@ -1,0 +1,2002 @@
+[
+  {
+    "id": 1,
+    "title": "Learning Resource 1",
+    "category": "Analytics",
+    "level": "Beginner",
+    "durationMinutes": 160,
+    "rating": 3.5
+  },
+  {
+    "id": 2,
+    "title": "Learning Resource 2",
+    "category": "Development",
+    "level": "Advanced",
+    "durationMinutes": 90,
+    "rating": 3.8
+  },
+  {
+    "id": 3,
+    "title": "Learning Resource 3",
+    "category": "Security",
+    "level": "Intermediate",
+    "durationMinutes": 140,
+    "rating": 4.9
+  },
+  {
+    "id": 4,
+    "title": "Learning Resource 4",
+    "category": "Design",
+    "level": "Advanced",
+    "durationMinutes": 240,
+    "rating": 3.4
+  },
+  {
+    "id": 5,
+    "title": "Learning Resource 5",
+    "category": "Security",
+    "level": "Beginner",
+    "durationMinutes": 170,
+    "rating": 3.3
+  },
+  {
+    "id": 6,
+    "title": "Learning Resource 6",
+    "category": "Development",
+    "level": "Intermediate",
+    "durationMinutes": 190,
+    "rating": 3.5
+  },
+  {
+    "id": 7,
+    "title": "Learning Resource 7",
+    "category": "Security",
+    "level": "Intermediate",
+    "durationMinutes": 170,
+    "rating": 4.7
+  },
+  {
+    "id": 8,
+    "title": "Learning Resource 8",
+    "category": "Development",
+    "level": "Intermediate",
+    "durationMinutes": 80,
+    "rating": 4.4
+  },
+  {
+    "id": 9,
+    "title": "Learning Resource 9",
+    "category": "Security",
+    "level": "Intermediate",
+    "durationMinutes": 230,
+    "rating": 4.0
+  },
+  {
+    "id": 10,
+    "title": "Learning Resource 10",
+    "category": "Analytics",
+    "level": "Intermediate",
+    "durationMinutes": 50,
+    "rating": 4.4
+  },
+  {
+    "id": 11,
+    "title": "Learning Resource 11",
+    "category": "Design",
+    "level": "Beginner",
+    "durationMinutes": 80,
+    "rating": 3.9
+  },
+  {
+    "id": 12,
+    "title": "Learning Resource 12",
+    "category": "Security",
+    "level": "Advanced",
+    "durationMinutes": 50,
+    "rating": 4.4
+  },
+  {
+    "id": 13,
+    "title": "Learning Resource 13",
+    "category": "Security",
+    "level": "Intermediate",
+    "durationMinutes": 160,
+    "rating": 4.9
+  },
+  {
+    "id": 14,
+    "title": "Learning Resource 14",
+    "category": "Development",
+    "level": "Beginner",
+    "durationMinutes": 150,
+    "rating": 3.6
+  },
+  {
+    "id": 15,
+    "title": "Learning Resource 15",
+    "category": "Security",
+    "level": "Advanced",
+    "durationMinutes": 30,
+    "rating": 3.2
+  },
+  {
+    "id": 16,
+    "title": "Learning Resource 16",
+    "category": "Design",
+    "level": "Advanced",
+    "durationMinutes": 80,
+    "rating": 4.0
+  },
+  {
+    "id": 17,
+    "title": "Learning Resource 17",
+    "category": "Security",
+    "level": "Advanced",
+    "durationMinutes": 120,
+    "rating": 3.5
+  },
+  {
+    "id": 18,
+    "title": "Learning Resource 18",
+    "category": "Security",
+    "level": "Intermediate",
+    "durationMinutes": 210,
+    "rating": 4.2
+  },
+  {
+    "id": 19,
+    "title": "Learning Resource 19",
+    "category": "Security",
+    "level": "Advanced",
+    "durationMinutes": 240,
+    "rating": 3.3
+  },
+  {
+    "id": 20,
+    "title": "Learning Resource 20",
+    "category": "Development",
+    "level": "Advanced",
+    "durationMinutes": 120,
+    "rating": 4.8
+  },
+  {
+    "id": 21,
+    "title": "Learning Resource 21",
+    "category": "Development",
+    "level": "Advanced",
+    "durationMinutes": 220,
+    "rating": 4.8
+  },
+  {
+    "id": 22,
+    "title": "Learning Resource 22",
+    "category": "Design",
+    "level": "Intermediate",
+    "durationMinutes": 20,
+    "rating": 4.1
+  },
+  {
+    "id": 23,
+    "title": "Learning Resource 23",
+    "category": "Analytics",
+    "level": "Beginner",
+    "durationMinutes": 160,
+    "rating": 4.9
+  },
+  {
+    "id": 24,
+    "title": "Learning Resource 24",
+    "category": "Development",
+    "level": "Advanced",
+    "durationMinutes": 240,
+    "rating": 4.3
+  },
+  {
+    "id": 25,
+    "title": "Learning Resource 25",
+    "category": "Design",
+    "level": "Beginner",
+    "durationMinutes": 200,
+    "rating": 5.0
+  },
+  {
+    "id": 26,
+    "title": "Learning Resource 26",
+    "category": "Design",
+    "level": "Beginner",
+    "durationMinutes": 120,
+    "rating": 3.5
+  },
+  {
+    "id": 27,
+    "title": "Learning Resource 27",
+    "category": "Development",
+    "level": "Advanced",
+    "durationMinutes": 50,
+    "rating": 3.6
+  },
+  {
+    "id": 28,
+    "title": "Learning Resource 28",
+    "category": "Security",
+    "level": "Advanced",
+    "durationMinutes": 30,
+    "rating": 4.5
+  },
+  {
+    "id": 29,
+    "title": "Learning Resource 29",
+    "category": "Development",
+    "level": "Intermediate",
+    "durationMinutes": 90,
+    "rating": 4.5
+  },
+  {
+    "id": 30,
+    "title": "Learning Resource 30",
+    "category": "Development",
+    "level": "Intermediate",
+    "durationMinutes": 180,
+    "rating": 3.6
+  },
+  {
+    "id": 31,
+    "title": "Learning Resource 31",
+    "category": "Analytics",
+    "level": "Advanced",
+    "durationMinutes": 210,
+    "rating": 4.3
+  },
+  {
+    "id": 32,
+    "title": "Learning Resource 32",
+    "category": "Design",
+    "level": "Intermediate",
+    "durationMinutes": 120,
+    "rating": 3.8
+  },
+  {
+    "id": 33,
+    "title": "Learning Resource 33",
+    "category": "Development",
+    "level": "Intermediate",
+    "durationMinutes": 240,
+    "rating": 5.0
+  },
+  {
+    "id": 34,
+    "title": "Learning Resource 34",
+    "category": "Security",
+    "level": "Intermediate",
+    "durationMinutes": 110,
+    "rating": 3.9
+  },
+  {
+    "id": 35,
+    "title": "Learning Resource 35",
+    "category": "Analytics",
+    "level": "Intermediate",
+    "durationMinutes": 120,
+    "rating": 5.0
+  },
+  {
+    "id": 36,
+    "title": "Learning Resource 36",
+    "category": "Security",
+    "level": "Advanced",
+    "durationMinutes": 140,
+    "rating": 4.4
+  },
+  {
+    "id": 37,
+    "title": "Learning Resource 37",
+    "category": "Development",
+    "level": "Beginner",
+    "durationMinutes": 110,
+    "rating": 3.7
+  },
+  {
+    "id": 38,
+    "title": "Learning Resource 38",
+    "category": "Development",
+    "level": "Intermediate",
+    "durationMinutes": 230,
+    "rating": 4.0
+  },
+  {
+    "id": 39,
+    "title": "Learning Resource 39",
+    "category": "Security",
+    "level": "Beginner",
+    "durationMinutes": 70,
+    "rating": 3.5
+  },
+  {
+    "id": 40,
+    "title": "Learning Resource 40",
+    "category": "Development",
+    "level": "Advanced",
+    "durationMinutes": 50,
+    "rating": 3.5
+  },
+  {
+    "id": 41,
+    "title": "Learning Resource 41",
+    "category": "Security",
+    "level": "Beginner",
+    "durationMinutes": 50,
+    "rating": 3.4
+  },
+  {
+    "id": 42,
+    "title": "Learning Resource 42",
+    "category": "Security",
+    "level": "Advanced",
+    "durationMinutes": 40,
+    "rating": 4.6
+  },
+  {
+    "id": 43,
+    "title": "Learning Resource 43",
+    "category": "Security",
+    "level": "Advanced",
+    "durationMinutes": 40,
+    "rating": 3.9
+  },
+  {
+    "id": 44,
+    "title": "Learning Resource 44",
+    "category": "Security",
+    "level": "Intermediate",
+    "durationMinutes": 20,
+    "rating": 4.6
+  },
+  {
+    "id": 45,
+    "title": "Learning Resource 45",
+    "category": "Design",
+    "level": "Beginner",
+    "durationMinutes": 70,
+    "rating": 4.6
+  },
+  {
+    "id": 46,
+    "title": "Learning Resource 46",
+    "category": "Security",
+    "level": "Intermediate",
+    "durationMinutes": 30,
+    "rating": 4.4
+  },
+  {
+    "id": 47,
+    "title": "Learning Resource 47",
+    "category": "Design",
+    "level": "Advanced",
+    "durationMinutes": 190,
+    "rating": 3.5
+  },
+  {
+    "id": 48,
+    "title": "Learning Resource 48",
+    "category": "Development",
+    "level": "Advanced",
+    "durationMinutes": 90,
+    "rating": 3.7
+  },
+  {
+    "id": 49,
+    "title": "Learning Resource 49",
+    "category": "Security",
+    "level": "Advanced",
+    "durationMinutes": 190,
+    "rating": 4.8
+  },
+  {
+    "id": 50,
+    "title": "Learning Resource 50",
+    "category": "Analytics",
+    "level": "Advanced",
+    "durationMinutes": 140,
+    "rating": 3.3
+  },
+  {
+    "id": 51,
+    "title": "Learning Resource 51",
+    "category": "Design",
+    "level": "Intermediate",
+    "durationMinutes": 20,
+    "rating": 4.9
+  },
+  {
+    "id": 52,
+    "title": "Learning Resource 52",
+    "category": "Analytics",
+    "level": "Beginner",
+    "durationMinutes": 170,
+    "rating": 3.7
+  },
+  {
+    "id": 53,
+    "title": "Learning Resource 53",
+    "category": "Design",
+    "level": "Advanced",
+    "durationMinutes": 170,
+    "rating": 3.4
+  },
+  {
+    "id": 54,
+    "title": "Learning Resource 54",
+    "category": "Analytics",
+    "level": "Beginner",
+    "durationMinutes": 30,
+    "rating": 5.0
+  },
+  {
+    "id": 55,
+    "title": "Learning Resource 55",
+    "category": "Design",
+    "level": "Beginner",
+    "durationMinutes": 70,
+    "rating": 4.6
+  },
+  {
+    "id": 56,
+    "title": "Learning Resource 56",
+    "category": "Analytics",
+    "level": "Beginner",
+    "durationMinutes": 160,
+    "rating": 4.6
+  },
+  {
+    "id": 57,
+    "title": "Learning Resource 57",
+    "category": "Security",
+    "level": "Intermediate",
+    "durationMinutes": 120,
+    "rating": 3.2
+  },
+  {
+    "id": 58,
+    "title": "Learning Resource 58",
+    "category": "Development",
+    "level": "Advanced",
+    "durationMinutes": 130,
+    "rating": 3.8
+  },
+  {
+    "id": 59,
+    "title": "Learning Resource 59",
+    "category": "Design",
+    "level": "Advanced",
+    "durationMinutes": 20,
+    "rating": 4.0
+  },
+  {
+    "id": 60,
+    "title": "Learning Resource 60",
+    "category": "Design",
+    "level": "Intermediate",
+    "durationMinutes": 100,
+    "rating": 4.3
+  },
+  {
+    "id": 61,
+    "title": "Learning Resource 61",
+    "category": "Analytics",
+    "level": "Advanced",
+    "durationMinutes": 80,
+    "rating": 3.2
+  },
+  {
+    "id": 62,
+    "title": "Learning Resource 62",
+    "category": "Security",
+    "level": "Advanced",
+    "durationMinutes": 230,
+    "rating": 3.3
+  },
+  {
+    "id": 63,
+    "title": "Learning Resource 63",
+    "category": "Security",
+    "level": "Beginner",
+    "durationMinutes": 50,
+    "rating": 3.7
+  },
+  {
+    "id": 64,
+    "title": "Learning Resource 64",
+    "category": "Design",
+    "level": "Intermediate",
+    "durationMinutes": 180,
+    "rating": 4.4
+  },
+  {
+    "id": 65,
+    "title": "Learning Resource 65",
+    "category": "Analytics",
+    "level": "Advanced",
+    "durationMinutes": 140,
+    "rating": 4.4
+  },
+  {
+    "id": 66,
+    "title": "Learning Resource 66",
+    "category": "Design",
+    "level": "Intermediate",
+    "durationMinutes": 160,
+    "rating": 3.8
+  },
+  {
+    "id": 67,
+    "title": "Learning Resource 67",
+    "category": "Security",
+    "level": "Advanced",
+    "durationMinutes": 240,
+    "rating": 4.0
+  },
+  {
+    "id": 68,
+    "title": "Learning Resource 68",
+    "category": "Development",
+    "level": "Beginner",
+    "durationMinutes": 110,
+    "rating": 3.7
+  },
+  {
+    "id": 69,
+    "title": "Learning Resource 69",
+    "category": "Security",
+    "level": "Beginner",
+    "durationMinutes": 60,
+    "rating": 4.1
+  },
+  {
+    "id": 70,
+    "title": "Learning Resource 70",
+    "category": "Security",
+    "level": "Advanced",
+    "durationMinutes": 110,
+    "rating": 4.4
+  },
+  {
+    "id": 71,
+    "title": "Learning Resource 71",
+    "category": "Security",
+    "level": "Beginner",
+    "durationMinutes": 190,
+    "rating": 3.7
+  },
+  {
+    "id": 72,
+    "title": "Learning Resource 72",
+    "category": "Analytics",
+    "level": "Advanced",
+    "durationMinutes": 160,
+    "rating": 4.1
+  },
+  {
+    "id": 73,
+    "title": "Learning Resource 73",
+    "category": "Security",
+    "level": "Beginner",
+    "durationMinutes": 60,
+    "rating": 3.7
+  },
+  {
+    "id": 74,
+    "title": "Learning Resource 74",
+    "category": "Security",
+    "level": "Advanced",
+    "durationMinutes": 200,
+    "rating": 4.0
+  },
+  {
+    "id": 75,
+    "title": "Learning Resource 75",
+    "category": "Security",
+    "level": "Beginner",
+    "durationMinutes": 70,
+    "rating": 4.4
+  },
+  {
+    "id": 76,
+    "title": "Learning Resource 76",
+    "category": "Analytics",
+    "level": "Intermediate",
+    "durationMinutes": 110,
+    "rating": 4.7
+  },
+  {
+    "id": 77,
+    "title": "Learning Resource 77",
+    "category": "Development",
+    "level": "Intermediate",
+    "durationMinutes": 60,
+    "rating": 3.4
+  },
+  {
+    "id": 78,
+    "title": "Learning Resource 78",
+    "category": "Design",
+    "level": "Advanced",
+    "durationMinutes": 210,
+    "rating": 4.0
+  },
+  {
+    "id": 79,
+    "title": "Learning Resource 79",
+    "category": "Development",
+    "level": "Advanced",
+    "durationMinutes": 170,
+    "rating": 4.8
+  },
+  {
+    "id": 80,
+    "title": "Learning Resource 80",
+    "category": "Security",
+    "level": "Beginner",
+    "durationMinutes": 150,
+    "rating": 4.0
+  },
+  {
+    "id": 81,
+    "title": "Learning Resource 81",
+    "category": "Development",
+    "level": "Advanced",
+    "durationMinutes": 200,
+    "rating": 3.8
+  },
+  {
+    "id": 82,
+    "title": "Learning Resource 82",
+    "category": "Analytics",
+    "level": "Advanced",
+    "durationMinutes": 80,
+    "rating": 4.6
+  },
+  {
+    "id": 83,
+    "title": "Learning Resource 83",
+    "category": "Analytics",
+    "level": "Intermediate",
+    "durationMinutes": 100,
+    "rating": 4.0
+  },
+  {
+    "id": 84,
+    "title": "Learning Resource 84",
+    "category": "Design",
+    "level": "Advanced",
+    "durationMinutes": 170,
+    "rating": 3.5
+  },
+  {
+    "id": 85,
+    "title": "Learning Resource 85",
+    "category": "Analytics",
+    "level": "Intermediate",
+    "durationMinutes": 160,
+    "rating": 4.1
+  },
+  {
+    "id": 86,
+    "title": "Learning Resource 86",
+    "category": "Design",
+    "level": "Beginner",
+    "durationMinutes": 50,
+    "rating": 4.9
+  },
+  {
+    "id": 87,
+    "title": "Learning Resource 87",
+    "category": "Development",
+    "level": "Beginner",
+    "durationMinutes": 30,
+    "rating": 4.3
+  },
+  {
+    "id": 88,
+    "title": "Learning Resource 88",
+    "category": "Security",
+    "level": "Intermediate",
+    "durationMinutes": 220,
+    "rating": 3.2
+  },
+  {
+    "id": 89,
+    "title": "Learning Resource 89",
+    "category": "Development",
+    "level": "Beginner",
+    "durationMinutes": 120,
+    "rating": 4.2
+  },
+  {
+    "id": 90,
+    "title": "Learning Resource 90",
+    "category": "Design",
+    "level": "Intermediate",
+    "durationMinutes": 140,
+    "rating": 3.5
+  },
+  {
+    "id": 91,
+    "title": "Learning Resource 91",
+    "category": "Security",
+    "level": "Advanced",
+    "durationMinutes": 210,
+    "rating": 3.6
+  },
+  {
+    "id": 92,
+    "title": "Learning Resource 92",
+    "category": "Design",
+    "level": "Beginner",
+    "durationMinutes": 20,
+    "rating": 5.0
+  },
+  {
+    "id": 93,
+    "title": "Learning Resource 93",
+    "category": "Design",
+    "level": "Advanced",
+    "durationMinutes": 30,
+    "rating": 3.8
+  },
+  {
+    "id": 94,
+    "title": "Learning Resource 94",
+    "category": "Design",
+    "level": "Beginner",
+    "durationMinutes": 150,
+    "rating": 4.6
+  },
+  {
+    "id": 95,
+    "title": "Learning Resource 95",
+    "category": "Design",
+    "level": "Intermediate",
+    "durationMinutes": 30,
+    "rating": 4.9
+  },
+  {
+    "id": 96,
+    "title": "Learning Resource 96",
+    "category": "Security",
+    "level": "Intermediate",
+    "durationMinutes": 200,
+    "rating": 4.8
+  },
+  {
+    "id": 97,
+    "title": "Learning Resource 97",
+    "category": "Development",
+    "level": "Advanced",
+    "durationMinutes": 160,
+    "rating": 4.5
+  },
+  {
+    "id": 98,
+    "title": "Learning Resource 98",
+    "category": "Design",
+    "level": "Intermediate",
+    "durationMinutes": 180,
+    "rating": 4.2
+  },
+  {
+    "id": 99,
+    "title": "Learning Resource 99",
+    "category": "Security",
+    "level": "Intermediate",
+    "durationMinutes": 110,
+    "rating": 4.7
+  },
+  {
+    "id": 100,
+    "title": "Learning Resource 100",
+    "category": "Analytics",
+    "level": "Beginner",
+    "durationMinutes": 210,
+    "rating": 4.9
+  },
+  {
+    "id": 101,
+    "title": "Learning Resource 101",
+    "category": "Design",
+    "level": "Advanced",
+    "durationMinutes": 60,
+    "rating": 4.8
+  },
+  {
+    "id": 102,
+    "title": "Learning Resource 102",
+    "category": "Development",
+    "level": "Intermediate",
+    "durationMinutes": 130,
+    "rating": 4.3
+  },
+  {
+    "id": 103,
+    "title": "Learning Resource 103",
+    "category": "Design",
+    "level": "Beginner",
+    "durationMinutes": 90,
+    "rating": 4.3
+  },
+  {
+    "id": 104,
+    "title": "Learning Resource 104",
+    "category": "Analytics",
+    "level": "Intermediate",
+    "durationMinutes": 140,
+    "rating": 4.2
+  },
+  {
+    "id": 105,
+    "title": "Learning Resource 105",
+    "category": "Design",
+    "level": "Intermediate",
+    "durationMinutes": 240,
+    "rating": 4.8
+  },
+  {
+    "id": 106,
+    "title": "Learning Resource 106",
+    "category": "Development",
+    "level": "Advanced",
+    "durationMinutes": 110,
+    "rating": 4.1
+  },
+  {
+    "id": 107,
+    "title": "Learning Resource 107",
+    "category": "Security",
+    "level": "Beginner",
+    "durationMinutes": 120,
+    "rating": 3.2
+  },
+  {
+    "id": 108,
+    "title": "Learning Resource 108",
+    "category": "Analytics",
+    "level": "Beginner",
+    "durationMinutes": 50,
+    "rating": 3.6
+  },
+  {
+    "id": 109,
+    "title": "Learning Resource 109",
+    "category": "Security",
+    "level": "Advanced",
+    "durationMinutes": 30,
+    "rating": 4.6
+  },
+  {
+    "id": 110,
+    "title": "Learning Resource 110",
+    "category": "Development",
+    "level": "Beginner",
+    "durationMinutes": 200,
+    "rating": 3.3
+  },
+  {
+    "id": 111,
+    "title": "Learning Resource 111",
+    "category": "Security",
+    "level": "Intermediate",
+    "durationMinutes": 110,
+    "rating": 4.6
+  },
+  {
+    "id": 112,
+    "title": "Learning Resource 112",
+    "category": "Analytics",
+    "level": "Beginner",
+    "durationMinutes": 200,
+    "rating": 4.2
+  },
+  {
+    "id": 113,
+    "title": "Learning Resource 113",
+    "category": "Analytics",
+    "level": "Beginner",
+    "durationMinutes": 160,
+    "rating": 3.8
+  },
+  {
+    "id": 114,
+    "title": "Learning Resource 114",
+    "category": "Development",
+    "level": "Intermediate",
+    "durationMinutes": 160,
+    "rating": 3.7
+  },
+  {
+    "id": 115,
+    "title": "Learning Resource 115",
+    "category": "Security",
+    "level": "Intermediate",
+    "durationMinutes": 140,
+    "rating": 4.9
+  },
+  {
+    "id": 116,
+    "title": "Learning Resource 116",
+    "category": "Analytics",
+    "level": "Beginner",
+    "durationMinutes": 150,
+    "rating": 4.7
+  },
+  {
+    "id": 117,
+    "title": "Learning Resource 117",
+    "category": "Security",
+    "level": "Advanced",
+    "durationMinutes": 100,
+    "rating": 3.7
+  },
+  {
+    "id": 118,
+    "title": "Learning Resource 118",
+    "category": "Analytics",
+    "level": "Beginner",
+    "durationMinutes": 100,
+    "rating": 4.4
+  },
+  {
+    "id": 119,
+    "title": "Learning Resource 119",
+    "category": "Design",
+    "level": "Advanced",
+    "durationMinutes": 50,
+    "rating": 4.7
+  },
+  {
+    "id": 120,
+    "title": "Learning Resource 120",
+    "category": "Design",
+    "level": "Advanced",
+    "durationMinutes": 130,
+    "rating": 4.1
+  },
+  {
+    "id": 121,
+    "title": "Learning Resource 121",
+    "category": "Security",
+    "level": "Advanced",
+    "durationMinutes": 100,
+    "rating": 5.0
+  },
+  {
+    "id": 122,
+    "title": "Learning Resource 122",
+    "category": "Development",
+    "level": "Advanced",
+    "durationMinutes": 80,
+    "rating": 3.2
+  },
+  {
+    "id": 123,
+    "title": "Learning Resource 123",
+    "category": "Analytics",
+    "level": "Advanced",
+    "durationMinutes": 80,
+    "rating": 4.0
+  },
+  {
+    "id": 124,
+    "title": "Learning Resource 124",
+    "category": "Analytics",
+    "level": "Beginner",
+    "durationMinutes": 210,
+    "rating": 3.7
+  },
+  {
+    "id": 125,
+    "title": "Learning Resource 125",
+    "category": "Analytics",
+    "level": "Intermediate",
+    "durationMinutes": 130,
+    "rating": 3.6
+  },
+  {
+    "id": 126,
+    "title": "Learning Resource 126",
+    "category": "Analytics",
+    "level": "Intermediate",
+    "durationMinutes": 160,
+    "rating": 4.8
+  },
+  {
+    "id": 127,
+    "title": "Learning Resource 127",
+    "category": "Analytics",
+    "level": "Beginner",
+    "durationMinutes": 20,
+    "rating": 3.8
+  },
+  {
+    "id": 128,
+    "title": "Learning Resource 128",
+    "category": "Development",
+    "level": "Advanced",
+    "durationMinutes": 140,
+    "rating": 4.8
+  },
+  {
+    "id": 129,
+    "title": "Learning Resource 129",
+    "category": "Development",
+    "level": "Advanced",
+    "durationMinutes": 70,
+    "rating": 3.9
+  },
+  {
+    "id": 130,
+    "title": "Learning Resource 130",
+    "category": "Security",
+    "level": "Intermediate",
+    "durationMinutes": 50,
+    "rating": 4.5
+  },
+  {
+    "id": 131,
+    "title": "Learning Resource 131",
+    "category": "Analytics",
+    "level": "Intermediate",
+    "durationMinutes": 160,
+    "rating": 3.7
+  },
+  {
+    "id": 132,
+    "title": "Learning Resource 132",
+    "category": "Design",
+    "level": "Intermediate",
+    "durationMinutes": 20,
+    "rating": 3.5
+  },
+  {
+    "id": 133,
+    "title": "Learning Resource 133",
+    "category": "Design",
+    "level": "Intermediate",
+    "durationMinutes": 220,
+    "rating": 3.8
+  },
+  {
+    "id": 134,
+    "title": "Learning Resource 134",
+    "category": "Security",
+    "level": "Beginner",
+    "durationMinutes": 220,
+    "rating": 4.4
+  },
+  {
+    "id": 135,
+    "title": "Learning Resource 135",
+    "category": "Development",
+    "level": "Intermediate",
+    "durationMinutes": 160,
+    "rating": 3.6
+  },
+  {
+    "id": 136,
+    "title": "Learning Resource 136",
+    "category": "Development",
+    "level": "Intermediate",
+    "durationMinutes": 160,
+    "rating": 4.2
+  },
+  {
+    "id": 137,
+    "title": "Learning Resource 137",
+    "category": "Security",
+    "level": "Beginner",
+    "durationMinutes": 90,
+    "rating": 4.0
+  },
+  {
+    "id": 138,
+    "title": "Learning Resource 138",
+    "category": "Security",
+    "level": "Advanced",
+    "durationMinutes": 90,
+    "rating": 4.9
+  },
+  {
+    "id": 139,
+    "title": "Learning Resource 139",
+    "category": "Development",
+    "level": "Advanced",
+    "durationMinutes": 50,
+    "rating": 3.8
+  },
+  {
+    "id": 140,
+    "title": "Learning Resource 140",
+    "category": "Analytics",
+    "level": "Beginner",
+    "durationMinutes": 170,
+    "rating": 3.3
+  },
+  {
+    "id": 141,
+    "title": "Learning Resource 141",
+    "category": "Design",
+    "level": "Beginner",
+    "durationMinutes": 150,
+    "rating": 4.0
+  },
+  {
+    "id": 142,
+    "title": "Learning Resource 142",
+    "category": "Analytics",
+    "level": "Intermediate",
+    "durationMinutes": 40,
+    "rating": 5.0
+  },
+  {
+    "id": 143,
+    "title": "Learning Resource 143",
+    "category": "Development",
+    "level": "Advanced",
+    "durationMinutes": 50,
+    "rating": 3.3
+  },
+  {
+    "id": 144,
+    "title": "Learning Resource 144",
+    "category": "Design",
+    "level": "Advanced",
+    "durationMinutes": 100,
+    "rating": 3.3
+  },
+  {
+    "id": 145,
+    "title": "Learning Resource 145",
+    "category": "Analytics",
+    "level": "Advanced",
+    "durationMinutes": 100,
+    "rating": 3.5
+  },
+  {
+    "id": 146,
+    "title": "Learning Resource 146",
+    "category": "Development",
+    "level": "Beginner",
+    "durationMinutes": 170,
+    "rating": 3.4
+  },
+  {
+    "id": 147,
+    "title": "Learning Resource 147",
+    "category": "Analytics",
+    "level": "Beginner",
+    "durationMinutes": 170,
+    "rating": 4.9
+  },
+  {
+    "id": 148,
+    "title": "Learning Resource 148",
+    "category": "Security",
+    "level": "Beginner",
+    "durationMinutes": 220,
+    "rating": 4.6
+  },
+  {
+    "id": 149,
+    "title": "Learning Resource 149",
+    "category": "Development",
+    "level": "Advanced",
+    "durationMinutes": 70,
+    "rating": 4.8
+  },
+  {
+    "id": 150,
+    "title": "Learning Resource 150",
+    "category": "Design",
+    "level": "Intermediate",
+    "durationMinutes": 30,
+    "rating": 4.2
+  },
+  {
+    "id": 151,
+    "title": "Learning Resource 151",
+    "category": "Analytics",
+    "level": "Intermediate",
+    "durationMinutes": 170,
+    "rating": 4.9
+  },
+  {
+    "id": 152,
+    "title": "Learning Resource 152",
+    "category": "Security",
+    "level": "Beginner",
+    "durationMinutes": 200,
+    "rating": 4.0
+  },
+  {
+    "id": 153,
+    "title": "Learning Resource 153",
+    "category": "Analytics",
+    "level": "Advanced",
+    "durationMinutes": 100,
+    "rating": 4.3
+  },
+  {
+    "id": 154,
+    "title": "Learning Resource 154",
+    "category": "Development",
+    "level": "Intermediate",
+    "durationMinutes": 200,
+    "rating": 4.2
+  },
+  {
+    "id": 155,
+    "title": "Learning Resource 155",
+    "category": "Analytics",
+    "level": "Intermediate",
+    "durationMinutes": 140,
+    "rating": 4.4
+  },
+  {
+    "id": 156,
+    "title": "Learning Resource 156",
+    "category": "Development",
+    "level": "Intermediate",
+    "durationMinutes": 150,
+    "rating": 3.4
+  },
+  {
+    "id": 157,
+    "title": "Learning Resource 157",
+    "category": "Development",
+    "level": "Advanced",
+    "durationMinutes": 110,
+    "rating": 4.1
+  },
+  {
+    "id": 158,
+    "title": "Learning Resource 158",
+    "category": "Design",
+    "level": "Beginner",
+    "durationMinutes": 50,
+    "rating": 4.6
+  },
+  {
+    "id": 159,
+    "title": "Learning Resource 159",
+    "category": "Security",
+    "level": "Advanced",
+    "durationMinutes": 240,
+    "rating": 3.7
+  },
+  {
+    "id": 160,
+    "title": "Learning Resource 160",
+    "category": "Analytics",
+    "level": "Advanced",
+    "durationMinutes": 190,
+    "rating": 4.9
+  },
+  {
+    "id": 161,
+    "title": "Learning Resource 161",
+    "category": "Security",
+    "level": "Advanced",
+    "durationMinutes": 90,
+    "rating": 4.3
+  },
+  {
+    "id": 162,
+    "title": "Learning Resource 162",
+    "category": "Security",
+    "level": "Intermediate",
+    "durationMinutes": 220,
+    "rating": 4.4
+  },
+  {
+    "id": 163,
+    "title": "Learning Resource 163",
+    "category": "Security",
+    "level": "Beginner",
+    "durationMinutes": 110,
+    "rating": 4.2
+  },
+  {
+    "id": 164,
+    "title": "Learning Resource 164",
+    "category": "Development",
+    "level": "Intermediate",
+    "durationMinutes": 80,
+    "rating": 3.5
+  },
+  {
+    "id": 165,
+    "title": "Learning Resource 165",
+    "category": "Design",
+    "level": "Intermediate",
+    "durationMinutes": 160,
+    "rating": 4.3
+  },
+  {
+    "id": 166,
+    "title": "Learning Resource 166",
+    "category": "Analytics",
+    "level": "Beginner",
+    "durationMinutes": 20,
+    "rating": 5.0
+  },
+  {
+    "id": 167,
+    "title": "Learning Resource 167",
+    "category": "Security",
+    "level": "Intermediate",
+    "durationMinutes": 230,
+    "rating": 3.6
+  },
+  {
+    "id": 168,
+    "title": "Learning Resource 168",
+    "category": "Security",
+    "level": "Beginner",
+    "durationMinutes": 40,
+    "rating": 3.8
+  },
+  {
+    "id": 169,
+    "title": "Learning Resource 169",
+    "category": "Design",
+    "level": "Advanced",
+    "durationMinutes": 120,
+    "rating": 4.7
+  },
+  {
+    "id": 170,
+    "title": "Learning Resource 170",
+    "category": "Analytics",
+    "level": "Advanced",
+    "durationMinutes": 100,
+    "rating": 4.6
+  },
+  {
+    "id": 171,
+    "title": "Learning Resource 171",
+    "category": "Analytics",
+    "level": "Intermediate",
+    "durationMinutes": 210,
+    "rating": 4.0
+  },
+  {
+    "id": 172,
+    "title": "Learning Resource 172",
+    "category": "Development",
+    "level": "Advanced",
+    "durationMinutes": 110,
+    "rating": 4.1
+  },
+  {
+    "id": 173,
+    "title": "Learning Resource 173",
+    "category": "Security",
+    "level": "Intermediate",
+    "durationMinutes": 20,
+    "rating": 4.8
+  },
+  {
+    "id": 174,
+    "title": "Learning Resource 174",
+    "category": "Development",
+    "level": "Advanced",
+    "durationMinutes": 150,
+    "rating": 3.5
+  },
+  {
+    "id": 175,
+    "title": "Learning Resource 175",
+    "category": "Development",
+    "level": "Intermediate",
+    "durationMinutes": 220,
+    "rating": 4.2
+  },
+  {
+    "id": 176,
+    "title": "Learning Resource 176",
+    "category": "Design",
+    "level": "Beginner",
+    "durationMinutes": 20,
+    "rating": 4.6
+  },
+  {
+    "id": 177,
+    "title": "Learning Resource 177",
+    "category": "Security",
+    "level": "Advanced",
+    "durationMinutes": 40,
+    "rating": 4.7
+  },
+  {
+    "id": 178,
+    "title": "Learning Resource 178",
+    "category": "Design",
+    "level": "Beginner",
+    "durationMinutes": 20,
+    "rating": 4.6
+  },
+  {
+    "id": 179,
+    "title": "Learning Resource 179",
+    "category": "Development",
+    "level": "Beginner",
+    "durationMinutes": 210,
+    "rating": 4.0
+  },
+  {
+    "id": 180,
+    "title": "Learning Resource 180",
+    "category": "Analytics",
+    "level": "Intermediate",
+    "durationMinutes": 90,
+    "rating": 4.7
+  },
+  {
+    "id": 181,
+    "title": "Learning Resource 181",
+    "category": "Analytics",
+    "level": "Advanced",
+    "durationMinutes": 180,
+    "rating": 3.8
+  },
+  {
+    "id": 182,
+    "title": "Learning Resource 182",
+    "category": "Development",
+    "level": "Beginner",
+    "durationMinutes": 190,
+    "rating": 4.7
+  },
+  {
+    "id": 183,
+    "title": "Learning Resource 183",
+    "category": "Design",
+    "level": "Intermediate",
+    "durationMinutes": 190,
+    "rating": 3.3
+  },
+  {
+    "id": 184,
+    "title": "Learning Resource 184",
+    "category": "Development",
+    "level": "Intermediate",
+    "durationMinutes": 170,
+    "rating": 4.4
+  },
+  {
+    "id": 185,
+    "title": "Learning Resource 185",
+    "category": "Analytics",
+    "level": "Intermediate",
+    "durationMinutes": 80,
+    "rating": 3.7
+  },
+  {
+    "id": 186,
+    "title": "Learning Resource 186",
+    "category": "Development",
+    "level": "Advanced",
+    "durationMinutes": 160,
+    "rating": 5.0
+  },
+  {
+    "id": 187,
+    "title": "Learning Resource 187",
+    "category": "Security",
+    "level": "Intermediate",
+    "durationMinutes": 40,
+    "rating": 4.2
+  },
+  {
+    "id": 188,
+    "title": "Learning Resource 188",
+    "category": "Analytics",
+    "level": "Intermediate",
+    "durationMinutes": 240,
+    "rating": 3.5
+  },
+  {
+    "id": 189,
+    "title": "Learning Resource 189",
+    "category": "Security",
+    "level": "Intermediate",
+    "durationMinutes": 110,
+    "rating": 4.4
+  },
+  {
+    "id": 190,
+    "title": "Learning Resource 190",
+    "category": "Development",
+    "level": "Beginner",
+    "durationMinutes": 200,
+    "rating": 3.7
+  },
+  {
+    "id": 191,
+    "title": "Learning Resource 191",
+    "category": "Analytics",
+    "level": "Intermediate",
+    "durationMinutes": 160,
+    "rating": 4.3
+  },
+  {
+    "id": 192,
+    "title": "Learning Resource 192",
+    "category": "Security",
+    "level": "Intermediate",
+    "durationMinutes": 150,
+    "rating": 4.3
+  },
+  {
+    "id": 193,
+    "title": "Learning Resource 193",
+    "category": "Security",
+    "level": "Intermediate",
+    "durationMinutes": 50,
+    "rating": 4.1
+  },
+  {
+    "id": 194,
+    "title": "Learning Resource 194",
+    "category": "Design",
+    "level": "Beginner",
+    "durationMinutes": 50,
+    "rating": 4.0
+  },
+  {
+    "id": 195,
+    "title": "Learning Resource 195",
+    "category": "Development",
+    "level": "Beginner",
+    "durationMinutes": 100,
+    "rating": 4.6
+  },
+  {
+    "id": 196,
+    "title": "Learning Resource 196",
+    "category": "Development",
+    "level": "Beginner",
+    "durationMinutes": 180,
+    "rating": 3.5
+  },
+  {
+    "id": 197,
+    "title": "Learning Resource 197",
+    "category": "Analytics",
+    "level": "Intermediate",
+    "durationMinutes": 110,
+    "rating": 4.2
+  },
+  {
+    "id": 198,
+    "title": "Learning Resource 198",
+    "category": "Development",
+    "level": "Intermediate",
+    "durationMinutes": 40,
+    "rating": 3.8
+  },
+  {
+    "id": 199,
+    "title": "Learning Resource 199",
+    "category": "Security",
+    "level": "Advanced",
+    "durationMinutes": 90,
+    "rating": 4.0
+  },
+  {
+    "id": 200,
+    "title": "Learning Resource 200",
+    "category": "Development",
+    "level": "Beginner",
+    "durationMinutes": 120,
+    "rating": 4.6
+  },
+  {
+    "id": 201,
+    "title": "Learning Resource 201",
+    "category": "Design",
+    "level": "Intermediate",
+    "durationMinutes": 120,
+    "rating": 4.6
+  },
+  {
+    "id": 202,
+    "title": "Learning Resource 202",
+    "category": "Development",
+    "level": "Beginner",
+    "durationMinutes": 30,
+    "rating": 3.8
+  },
+  {
+    "id": 203,
+    "title": "Learning Resource 203",
+    "category": "Development",
+    "level": "Beginner",
+    "durationMinutes": 40,
+    "rating": 4.6
+  },
+  {
+    "id": 204,
+    "title": "Learning Resource 204",
+    "category": "Security",
+    "level": "Advanced",
+    "durationMinutes": 180,
+    "rating": 4.2
+  },
+  {
+    "id": 205,
+    "title": "Learning Resource 205",
+    "category": "Security",
+    "level": "Advanced",
+    "durationMinutes": 90,
+    "rating": 3.8
+  },
+  {
+    "id": 206,
+    "title": "Learning Resource 206",
+    "category": "Security",
+    "level": "Intermediate",
+    "durationMinutes": 230,
+    "rating": 4.8
+  },
+  {
+    "id": 207,
+    "title": "Learning Resource 207",
+    "category": "Security",
+    "level": "Advanced",
+    "durationMinutes": 60,
+    "rating": 5.0
+  },
+  {
+    "id": 208,
+    "title": "Learning Resource 208",
+    "category": "Design",
+    "level": "Advanced",
+    "durationMinutes": 140,
+    "rating": 3.8
+  },
+  {
+    "id": 209,
+    "title": "Learning Resource 209",
+    "category": "Security",
+    "level": "Intermediate",
+    "durationMinutes": 80,
+    "rating": 3.5
+  },
+  {
+    "id": 210,
+    "title": "Learning Resource 210",
+    "category": "Analytics",
+    "level": "Intermediate",
+    "durationMinutes": 150,
+    "rating": 3.8
+  },
+  {
+    "id": 211,
+    "title": "Learning Resource 211",
+    "category": "Security",
+    "level": "Intermediate",
+    "durationMinutes": 80,
+    "rating": 4.9
+  },
+  {
+    "id": 212,
+    "title": "Learning Resource 212",
+    "category": "Analytics",
+    "level": "Beginner",
+    "durationMinutes": 90,
+    "rating": 3.8
+  },
+  {
+    "id": 213,
+    "title": "Learning Resource 213",
+    "category": "Security",
+    "level": "Advanced",
+    "durationMinutes": 120,
+    "rating": 4.2
+  },
+  {
+    "id": 214,
+    "title": "Learning Resource 214",
+    "category": "Security",
+    "level": "Intermediate",
+    "durationMinutes": 90,
+    "rating": 3.7
+  },
+  {
+    "id": 215,
+    "title": "Learning Resource 215",
+    "category": "Development",
+    "level": "Beginner",
+    "durationMinutes": 220,
+    "rating": 4.3
+  },
+  {
+    "id": 216,
+    "title": "Learning Resource 216",
+    "category": "Analytics",
+    "level": "Intermediate",
+    "durationMinutes": 110,
+    "rating": 4.0
+  },
+  {
+    "id": 217,
+    "title": "Learning Resource 217",
+    "category": "Design",
+    "level": "Intermediate",
+    "durationMinutes": 170,
+    "rating": 4.1
+  },
+  {
+    "id": 218,
+    "title": "Learning Resource 218",
+    "category": "Security",
+    "level": "Advanced",
+    "durationMinutes": 90,
+    "rating": 3.7
+  },
+  {
+    "id": 219,
+    "title": "Learning Resource 219",
+    "category": "Development",
+    "level": "Intermediate",
+    "durationMinutes": 30,
+    "rating": 4.8
+  },
+  {
+    "id": 220,
+    "title": "Learning Resource 220",
+    "category": "Development",
+    "level": "Beginner",
+    "durationMinutes": 70,
+    "rating": 3.7
+  },
+  {
+    "id": 221,
+    "title": "Learning Resource 221",
+    "category": "Design",
+    "level": "Intermediate",
+    "durationMinutes": 60,
+    "rating": 4.0
+  },
+  {
+    "id": 222,
+    "title": "Learning Resource 222",
+    "category": "Security",
+    "level": "Intermediate",
+    "durationMinutes": 120,
+    "rating": 3.5
+  },
+  {
+    "id": 223,
+    "title": "Learning Resource 223",
+    "category": "Security",
+    "level": "Beginner",
+    "durationMinutes": 230,
+    "rating": 4.3
+  },
+  {
+    "id": 224,
+    "title": "Learning Resource 224",
+    "category": "Design",
+    "level": "Intermediate",
+    "durationMinutes": 120,
+    "rating": 4.3
+  },
+  {
+    "id": 225,
+    "title": "Learning Resource 225",
+    "category": "Development",
+    "level": "Advanced",
+    "durationMinutes": 80,
+    "rating": 4.0
+  },
+  {
+    "id": 226,
+    "title": "Learning Resource 226",
+    "category": "Design",
+    "level": "Intermediate",
+    "durationMinutes": 220,
+    "rating": 3.9
+  },
+  {
+    "id": 227,
+    "title": "Learning Resource 227",
+    "category": "Analytics",
+    "level": "Intermediate",
+    "durationMinutes": 150,
+    "rating": 3.3
+  },
+  {
+    "id": 228,
+    "title": "Learning Resource 228",
+    "category": "Development",
+    "level": "Intermediate",
+    "durationMinutes": 190,
+    "rating": 3.4
+  },
+  {
+    "id": 229,
+    "title": "Learning Resource 229",
+    "category": "Development",
+    "level": "Advanced",
+    "durationMinutes": 160,
+    "rating": 4.1
+  },
+  {
+    "id": 230,
+    "title": "Learning Resource 230",
+    "category": "Analytics",
+    "level": "Advanced",
+    "durationMinutes": 90,
+    "rating": 4.0
+  },
+  {
+    "id": 231,
+    "title": "Learning Resource 231",
+    "category": "Design",
+    "level": "Beginner",
+    "durationMinutes": 100,
+    "rating": 3.8
+  },
+  {
+    "id": 232,
+    "title": "Learning Resource 232",
+    "category": "Development",
+    "level": "Beginner",
+    "durationMinutes": 230,
+    "rating": 3.3
+  },
+  {
+    "id": 233,
+    "title": "Learning Resource 233",
+    "category": "Development",
+    "level": "Beginner",
+    "durationMinutes": 70,
+    "rating": 5.0
+  },
+  {
+    "id": 234,
+    "title": "Learning Resource 234",
+    "category": "Development",
+    "level": "Intermediate",
+    "durationMinutes": 110,
+    "rating": 4.1
+  },
+  {
+    "id": 235,
+    "title": "Learning Resource 235",
+    "category": "Design",
+    "level": "Beginner",
+    "durationMinutes": 50,
+    "rating": 4.3
+  },
+  {
+    "id": 236,
+    "title": "Learning Resource 236",
+    "category": "Development",
+    "level": "Advanced",
+    "durationMinutes": 180,
+    "rating": 5.0
+  },
+  {
+    "id": 237,
+    "title": "Learning Resource 237",
+    "category": "Development",
+    "level": "Advanced",
+    "durationMinutes": 70,
+    "rating": 4.1
+  },
+  {
+    "id": 238,
+    "title": "Learning Resource 238",
+    "category": "Development",
+    "level": "Beginner",
+    "durationMinutes": 80,
+    "rating": 4.7
+  },
+  {
+    "id": 239,
+    "title": "Learning Resource 239",
+    "category": "Development",
+    "level": "Beginner",
+    "durationMinutes": 140,
+    "rating": 3.3
+  },
+  {
+    "id": 240,
+    "title": "Learning Resource 240",
+    "category": "Development",
+    "level": "Intermediate",
+    "durationMinutes": 20,
+    "rating": 4.6
+  },
+  {
+    "id": 241,
+    "title": "Learning Resource 241",
+    "category": "Analytics",
+    "level": "Advanced",
+    "durationMinutes": 150,
+    "rating": 4.4
+  },
+  {
+    "id": 242,
+    "title": "Learning Resource 242",
+    "category": "Design",
+    "level": "Intermediate",
+    "durationMinutes": 160,
+    "rating": 4.7
+  },
+  {
+    "id": 243,
+    "title": "Learning Resource 243",
+    "category": "Design",
+    "level": "Beginner",
+    "durationMinutes": 180,
+    "rating": 4.4
+  },
+  {
+    "id": 244,
+    "title": "Learning Resource 244",
+    "category": "Design",
+    "level": "Advanced",
+    "durationMinutes": 180,
+    "rating": 3.8
+  },
+  {
+    "id": 245,
+    "title": "Learning Resource 245",
+    "category": "Security",
+    "level": "Beginner",
+    "durationMinutes": 220,
+    "rating": 4.5
+  },
+  {
+    "id": 246,
+    "title": "Learning Resource 246",
+    "category": "Analytics",
+    "level": "Intermediate",
+    "durationMinutes": 30,
+    "rating": 4.6
+  },
+  {
+    "id": 247,
+    "title": "Learning Resource 247",
+    "category": "Security",
+    "level": "Beginner",
+    "durationMinutes": 40,
+    "rating": 4.8
+  },
+  {
+    "id": 248,
+    "title": "Learning Resource 248",
+    "category": "Analytics",
+    "level": "Intermediate",
+    "durationMinutes": 160,
+    "rating": 3.8
+  },
+  {
+    "id": 249,
+    "title": "Learning Resource 249",
+    "category": "Design",
+    "level": "Intermediate",
+    "durationMinutes": 170,
+    "rating": 3.4
+  },
+  {
+    "id": 250,
+    "title": "Learning Resource 250",
+    "category": "Development",
+    "level": "Intermediate",
+    "durationMinutes": 90,
+    "rating": 3.2
+  }
+]
