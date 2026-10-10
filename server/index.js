@@ -10,6 +10,15 @@ const app = express();
 const PORT = process.env.PORT || 4000;
 const MONGODB_URI = process.env.MONGODB_URI;
 
+app.use(
+  cors({
+    origin: [
+      "https://live-query-filter-system-two.vercel.app",
+      "http://localhost:5173",
+    ],
+  }),
+);
+
 const escapeRegex = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 const toList = (v) =>
   String(v || "")
