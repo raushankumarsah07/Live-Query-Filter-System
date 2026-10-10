@@ -10,13 +10,20 @@ const { seed } = require("./seed");
 const app = express();
 const PORT = process.env.PORT || 4000;
 const MONGODB_URI = process.env.MONGODB_URI;
+const CLIENT_URI = process.env.CLIENT_URI;
 
 app.use(
   cors({
-    origin: [
-      "https://live-query-filter-system-two.vercel.app",
-      "http://localhost:5173",
-    ],
+    origin: (origin, callback) => {
+      if (
+        !origin ||
+        origin === CLIENT_URI ||
+        origin === "http://localhost:5173"
+      ) {
+        return callback(null, true);
+      }
+      callback(new Error("Origin is not allowed by CORS"));
+    },
   }),
 );
 
