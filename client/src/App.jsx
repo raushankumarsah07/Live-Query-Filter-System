@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 
 const DEBOUNCE_MS = 400;
 const LIMIT = 12;
+const API_URL = import.meta.env.VITE_API_URL || "";
 
 const fmtDuration = (m) =>
   m >= 60 ? `${Math.floor(m / 60)}h${m % 60 ? ` ${m % 60}m` : ""}` : `${m}m`;
@@ -34,7 +35,7 @@ export default function App() {
   const [apiCalls, setApiCalls] = useState(0);
 
   useEffect(() => {
-    getJson("/api/meta")
+    getJson(`${API_URL}/api/meta`)
       .then(setMeta)
       .catch(() => {});
   }, []);
@@ -64,7 +65,7 @@ export default function App() {
     setLoading(true);
     setError("");
     setApiCalls((n) => n + 1);
-    getJson(`/api/items?${params}`, ctrl.signal)
+    getJson(`${API_URL}/api/items?${params}`, ctrl.signal)
       .then((d) => {
         setData(d);
         setLoading(false);
